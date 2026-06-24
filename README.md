@@ -37,13 +37,15 @@ used-car-market-analysis/
 
 ├── requirements.txt
 
-└── vehicles.csv
+└── vehicles.csv (File not included on the repository, download it from the link and add it to the project folder https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) 
 
 ## ▶️ How to Run Locally
 ```bash
 # Clone the repository
 git clone https://github.com/tu-usuario/used-car-market-analysis.git
 cd used-car-market-analysis
+
+# Download the .csv file and add it to the project folder
 
 # Create and activate virtual environment
 python -m venv venv
@@ -62,4 +64,4 @@ For a platform like Kavak, the most profitable segment by volume lies in **SUVs 
 
 ## 👤 Author
 Santiago Quintanilla — Mechatronics Engineer | Data Science Student @ TripleTen
-[LinkedIn](www.linkedin.com/in/santiago-quintanilla-zurita-b5117b103) | [GitHub](https://github.com/borre3205)
+[LinkedIn](https://www.linkedin.com/in/santiago-quintanilla-zurita-b5117b103) | [GitHub](https://github.com/borre3205)
