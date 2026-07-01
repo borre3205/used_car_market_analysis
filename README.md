@@ -21,6 +21,8 @@ This project performs an Exploratory Data Analysis (EDA) on a dataset of used ca
 4. **American brands** dominate total sales — Ford leads at ~$1.35B, nearly double Chevrolet's ~$1B.
 5. **SUVs** are the volume king ($1.23B total) despite ranking #6 in average price.
 6. **Pickup trucks** are the most consistent segment — #1 in average price and #2 in total volume.
+<img width="590" height="528" alt="imagen" src="https://github.com/user-attachments/assets/b10a1d7c-2c62-42b5-b3e8-545294d826b4" />
+<img width="1024" height="469" alt="imagen(1)" src="https://github.com/user-attachments/assets/a79e9945-e0de-4b8a-9151-8de1ef29a974" />
 
 ## 🛠️ Tech Stack
 - Python
